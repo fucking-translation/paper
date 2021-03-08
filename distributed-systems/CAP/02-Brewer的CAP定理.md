@@ -152,7 +152,7 @@ CAP定理随着应用程序的扩展而变得栩栩如生。在事务很少的�
 
 - 围绕CAP设计
 
-<p style="margin-left: 20px">[atomikos](http://www.atomikos.com/)的CTO Guy Pardon写了一篇很有趣的帖子，他称之为“CAP的解决方案（证明Brewer是错误的）“，帖子中提到了一种架构方法，该方法可以在一些注意事项（caveats）下提供一致性，可用性和分区容错性（值得注意的是，你不能一次获得全部三个保证）。</p>
+<p style="margin-left: 20px"><a src="http://www.atomikos.com/">atomikos</a>的CTO Guy Pardon写了一篇很有趣的帖子，他称之为“CAP的解决方案（证明Brewer是错误的）“，帖子中提到了一种架构方法，该方法可以在一些注意事项（caveats）下提供一致性，可用性和分区容错性（值得注意的是，你不能一次获得全部三个保证）。</p>
 
 <p style="margin-left: 20px">这值得一读，因为Guy代表了这一领域的对立观点。</p>
 
