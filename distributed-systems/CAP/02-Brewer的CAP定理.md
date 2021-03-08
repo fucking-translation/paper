@@ -148,7 +148,7 @@ CAP定理随着应用程序的扩展而变得栩栩如生。在事务很少的�
 
 <p style="margin-left: 20px">你在1997年SOSP文章中首次提出了“BASE”一词。那年早些时候，我和我的学生在他们的办公室里想出了一个缩写（acronym）。我承认它有点虚构（contrived），但是“ACID”也是如此一样远远超出人们的认识，因此我认为它足够好。Jim Gray和我讨论了这些首字母缩写，他欣然承认ACID也是一个延伸 - A和D的重叠度很高，C充其量是不确定的，但是这暗示了领域的概念，这是你正确指出PODC演讲的要点之一。</p>
 
-<p style="margin-left: 20px">易趣的Dan Pritchett有一个关于BASE的不错的[演讲](http://softwaresummit.org/2007/speakers/presentations/PritchettArchitectingForLatency.pdf)</p>
+<p style="margin-left: 20px">易趣的Dan Pritchett有一个关于BASE的不错的<a src="http://softwaresummit.org/2007/speakers/presentations/PritchettArchitectingForLatency.pdf">演讲</a></p>
 
 - 围绕CAP设计
 
