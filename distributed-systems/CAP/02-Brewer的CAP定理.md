@@ -20,8 +20,7 @@
 两年后，在2002年，麻省理工学院的[Seth Gilbert](http://lpd.epfl.ch/sgilbert/)和[Nancy Lynch](http://people.csail.mit.edu/lynch/)正式证明Brewer是正确的（论文见👉[Brewer's Conje
 ture and the Feasibility of
 Consistent, Available, Partition-Tolerant Web
-Servi
-es](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.20.1495&rep=rep1&type=pdf)），因此，Brewer定理诞生了。
+Services](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.20.1495&rep=rep1&type=pdf)），因此，Brewer定理诞生了。
 
 ## Brewer的CAP定理
 
@@ -72,7 +71,7 @@ CAP定理随着应用程序的扩展而变得栩栩如生。在事务很少的�
 
 第二点，一旦你围绕如何最大程度地扩大应用程序的规模展开讨论，世界就会大致分为两个意识形态（ideological）阵营：数据库用户何非数据库用户。
 
-毫不意外的是，数据库用户就像数据库技术一样，将倾向于通过谈论[乐观锁](http://en.wikipedia.org/wiki/Optimistic_concurrency_control)和[分片](http://en.wikipedia.org/wiki/Shard_/(database_architecture/))来解决规模问题，从而使数据库始终出于核心地位。
+毫不意外的是，数据库用户就像数据库技术一样，将倾向于通过谈论[乐观锁](http://en.wikipedia.org/wiki/Optimistic_concurrency_control)和[分片](http://en.wikipedia.org/wiki/Shard_/(database_architecture/))来解决规模问题，从而使数据库始终处于核心地位。
 
 非数据库用户将倾向于尽可能在数据库环境（避免关系领域）之外来管理数据以解决规模问题。
 
